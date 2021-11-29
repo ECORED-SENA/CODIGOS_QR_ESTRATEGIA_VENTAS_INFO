@@ -1,4 +1,4 @@
-# **sena-base-info-2021 v2.0.0**
+# **Códigos QR como estrategia de ventas**
 
 ## **Enlace GitHubPages**
 
